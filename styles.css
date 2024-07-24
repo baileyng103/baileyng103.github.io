@@ -19,9 +19,8 @@ body {
 img {
     margin: auto;
     display: block;
-    max-width: 80%; /* Adjust the max width of the image */
+    max-width: 100%; /* Adjust the max width of the image */
     height: auto;
-    vertical-align: middle;
 }
 
 .text {
